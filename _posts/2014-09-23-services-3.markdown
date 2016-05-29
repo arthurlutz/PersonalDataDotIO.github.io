@@ -1,0 +1,12 @@
+---
+layout: default
+img: cookie.jpg
+category: Services
+title: Internet retargeting
+description: |
+---
+Get all your personal data from leading internet retargeting firms that you have never heard about, such as Criteo, Rubicon or Turn. 
+<br>
+<br>
+<a href="mailto:GetMy@PersonalData?subject=PersonalData.IO Internet retargeting limited beta&body=Hi, I would like to join your program to get access to my personal data from internet retargeting firms Criteo, Turn and Rubicon. Please send me instructions"> Apply to join our limited beta</a>.
+

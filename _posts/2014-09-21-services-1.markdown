@@ -1,0 +1,11 @@
+---
+layout: default
+img: uber.jpeg
+category: Services
+title: Uber
+description: |
+---
+Get access to all your Uber personal data, including your individual scores, geolocation data, monitored battery status, etc. 
+<br>
+<br>
+<a href="mailto:GetMy@PersonalData?subject=PersonalData.IO Uber limited beta&body=Hi, I would like to join your Uber program to get access to my personal data. Please send me instructions ">Apply to join our limited beta</a>. 

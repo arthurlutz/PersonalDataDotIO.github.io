@@ -1,0 +1,12 @@
+---
+layout: default
+img: coursera2.png
+category: Services
+title: Coursera
+description: |
+---
+Get all your Coursera personal data, including individual homework grade, keystroke biometrics, etc. 
+<br>
+<br>
+<a href="mailto:GetMy@PersonalData?subject=PersonalData.IO Coursera limited beta&body=Hi, I would like to join your Coursera program to get access to my personal data. Please send me instructions "> Apply to join our limited beta</a>.
+
