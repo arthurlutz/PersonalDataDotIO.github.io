@@ -4,6 +4,7 @@
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
+    <a name="{{post.title}}"></a>
 
         <div class="container">
 
@@ -27,6 +28,7 @@
     {% else %}
 
     <div class="content-section-b">
+    <a name="{{post.title}}"></a>
 
         <div class="container">
 

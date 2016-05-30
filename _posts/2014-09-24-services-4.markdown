@@ -1,0 +1,12 @@
+---
+layout: default
+img: reddit.png
+category: Services
+title: Reddit
+description: |
+---
+Get all your personal data from Reddit, including non-public information, advertising profile, etc
+<br>
+<br>
+<a href="mailto:GetMy@PersonalData?subject=PersonalData.IO Reddit limited beta&body=Hi, I would like to join your program to get access to my personal data from Reddit. Please send me instructions"> Apply to join our limited beta</a>.
+
