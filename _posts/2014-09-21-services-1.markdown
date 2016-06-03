@@ -8,4 +8,4 @@ description: |
 Get access to all your Uber personal data, including your individual scores, geolocation data, monitored battery status, etc. 
 <br>
 <br>
-<a href="mailto:GetMy@PersonalData?subject=PersonalData.IO Uber limited beta&body=Hi, I would like to join your Uber program to get access to my personal data. Please send me instructions ">Apply to join our limited beta</a>. 
+<a href="mailto:GetMy@PersonalData?subject=PersonalData.IO My Uber personal data&body=Hi, I would like you to help me access my Uber personal data. Please send me some instructions. Don't use my email address for any other purpose. (just send this template, you don't need to edit it. The email you send this from does not need to be connected to your Uber account) ">Get your Uber data!</a>. 

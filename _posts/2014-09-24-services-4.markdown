@@ -8,5 +8,5 @@ description: |
 Get all your personal data from Reddit, including non-public information, advertising profile, etc
 <br>
 <br>
-<a href="mailto:GetMy@PersonalData?subject=PersonalData.IO Reddit limited beta&body=Hi, I would like to join your program to get access to my personal data from Reddit. Please send me instructions"> Apply to join our limited beta</a>.
+<a href="mailto:GetMy@PersonalData?subject=PersonalData.IO My Reddit personal data&body=Hi, I would like you to help me access my Reddit personal data. Please send me some instructions. Don't use my email address for any other purpose. (just send this template, you don't need to edit it. The email you send this from does not need to be connected to your Reddit account) ">Get your Reddit data!</a>. 
 
