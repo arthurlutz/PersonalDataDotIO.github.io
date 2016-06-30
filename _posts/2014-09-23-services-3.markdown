@@ -8,5 +8,5 @@ description: |
 Get all your personal data from leading internet retargeting firms that you have never heard about, such as Criteo, Rubicon or Turn. From a few cookies, track all the behind-the-scenes bidding that took place for your attention.
 <br>
 <br>
-<a href="mailto:GetMy@PersonalData?subject=PersonalData.IO My Internet retargeting personal data&body=Hi, I would like you to help me access my Internet retargeting personal data (Criteo, Turn, Rubicon, etc). Please send me some instructions. Don't use my email address for any other purpose.">Get your Uber data!</a>. 
+<a href="mailto:GetMy@PersonalData?subject=PersonalData.IO My Internet retargeting personal data&body=Hi, I would like you to help me access my Internet retargeting personal data (Criteo, Turn, Rubicon, etc). Please send me some instructions. Don't use my email address for any other purpose.">Get your Internet Retargeting data!</a>. 
 
